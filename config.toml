@@ -1,0 +1,7 @@
+[database]
+host = "43.231.115.108" # 43.231.115.108 localhost https://backend-transport.ictgroup.mn/
+port = 5432
+name = "postgres"
+schema = "app_backend"
+user = "postgres"
+password = "chpAYQNxwDBJwrKUpoSj"
